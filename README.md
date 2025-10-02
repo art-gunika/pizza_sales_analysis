@@ -49,7 +49,7 @@ This page focuses on the detailed performance metrics for a selected pizza categ
 
 ## 3. Skills Showcased 🛠️
 
-* **Data Transformation (ETL):** Extensive use of **Power Query** (M Language) within Power BI for data cleaning, shaping, and establishing a robust analytical model.
+* **Data Transformation (ETL):** Extensive use of **Power Query** within Power BI for data cleaning, shaping, and establishing a robust analytical model.
 * **Data Querying:** Writing and executing efficient **SQL** queries for initial data extraction and aggregation.
 * **Power BI Modeling:** Creation of both **implicit and explicit measures** (using DAX) to define complex KPIs (e.g., Median Revenue, Avg Pizzas per Order).
 * **Dashboard Design & Interactivity:** Implementing best practices in dashboard design, utilizing **buttons** for navigation, **slicers**, and **drill-through** functionality between pages.
@@ -60,8 +60,8 @@ This page focuses on the detailed performance metrics for a selected pizza categ
 ## 4. Analytical Insights & Business Recommendations
 
 * **Operational Peak:** **Friday** is the clear peak day for order volume, requiring maximum resource allocation. **July** was the highest-volume month.
-* **Low-Value Segment Diagnostic:** The **Classic** category is high-volume but a low-value segment. The **Median Revenue per Order ($\$14.5$)** is significantly lower than the overall **Avg Customer Spend ($\$38.31$)**, indicating that the majority of sales are for single, lower-priced items.
-* **Pricing Strategy:** The Classic category's transaction average $(\approx\$27.76)$ shows these customers spend approximately **\$10 less** per visit, highlighting a strong opportunity for targeted upselling (e.g., suggesting add-ons or bundles) to increase customer spend.
+* **Low-Value Segment Diagnostic:** The **Classic** category is high-volume but a low-value segment. The **Median Revenue per Order ($14.5)** is significantly lower than the overall **Avg Customer Spend ($38.31)**, indicating that the majority of sales are for single, lower-priced items.
+* **Pricing Strategy:** The Classic category's transaction average (\approx\$27.76) shows these customers spend approximately **\$10 less** per visit, highlighting a strong opportunity for targeted upselling (e.g., suggesting add-ons or bundles) to increase customer spend.
 * **Product Focus:** The **Large** size is the dominant contributor to both revenue and sales volume.
 
 ## Conclusion
